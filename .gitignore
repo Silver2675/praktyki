@@ -2,8 +2,6 @@
 *.tmp
 /build/
 
-# Ignorowanie plików konfiguracyjnych IDE
 .vscode/
 
 ./node_modules/
-# Ignorowanie plików logów
